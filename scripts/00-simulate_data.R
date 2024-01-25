@@ -1,11 +1,10 @@
 #### Preamble ####
-# Purpose: Simulates... [...UPDATE THIS...]
-# Author: Abdul Ahad Qureshi [...UPDATE THIS...]
-# Date: 25 January 2023 [...UPDATE THIS...]
-# Contact: ahad.qureshi@mail.utoronto.ca [...UPDATE THIS...]
+# Purpose: designed to simulate and analyze a dataset representing annual ticket issuance across various neighborhoods.
+# Author: Abdul Ahad Qureshi
+# Date: 25 January 2023 
+# Contact: ahad.qureshi@mail.utoronto.ca
 # License: MIT
-# Pre-requisites: [...UPDATE THIS...]
-# Any other information needed? [...UPDATE THIS...]
+
 
 
 #### Workspace setup ####
