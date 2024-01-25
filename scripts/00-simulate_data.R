@@ -1,8 +1,8 @@
 #### Preamble ####
 # Purpose: Simulates... [...UPDATE THIS...]
-# Author: Rohan Alexander [...UPDATE THIS...]
-# Date: 11 February 2023 [...UPDATE THIS...]
-# Contact: rohan.alexander@utoronto.ca [...UPDATE THIS...]
+# Author: Abdul Ahad Qureshi [...UPDATE THIS...]
+# Date: 25 January 2023 [...UPDATE THIS...]
+# Contact: ahad.qureshi@mail.utoronto.ca [...UPDATE THIS...]
 # License: MIT
 # Pre-requisites: [...UPDATE THIS...]
 # Any other information needed? [...UPDATE THIS...]
