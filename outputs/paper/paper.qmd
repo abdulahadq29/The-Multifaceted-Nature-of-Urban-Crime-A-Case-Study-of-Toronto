@@ -46,7 +46,7 @@ The dataset's richness allows for a multifaceted analysis of crime trends in Tor
 
 Using ggplot2, we constructed several plots to visualize the data in its raw, non-summarized form. For instance, a line graph (@fig-genderarreststrend) depicts the trend in genders of arrested individual. Another plot (@fig-categoryofarrests) shows the distribution of arrests accoeding to the felony, highlighting higher incidences of specific crime types.
 
-# **Results**
+## **Results**
 
 ## Trend in Arrests by Gender
 
@@ -212,7 +212,7 @@ The overall decline in total arrests by 2020 could be attributed to the COVID-19
 
 The recent increase in total arrests could indicate a return to pre-pandemic levels of law enforcement activity or a reaction to changes in crime rates.
 
-# **Discussion**
+## **Discussion**
 
 The discussion section of this paper synthesizes the results derived from the analysis of arrest data in Toronto, taking into account the various dimensions of age, gender, and crime type. The observed trends reveal that while male arrests outnumber female arrests, this discrepancy is shrinking over time, suggesting potential shifts in crime participation or law enforcement focus. The gender disparities in arrests, while significant, are shown to be in a state of flux, potentially reflecting deeper societal changes or evolving enforcement policies. The increase in arrests among older populations, especially noted in individuals over 65, raises questions about the interplay between aging demographics and criminal activity. The surge in violations of the Controlled Drugs and Substances Act demands an examination of the socio-political catalysts, while the downtrend in property crimes could be indicative of more effective preventive measures or economic developments. These findings underscore the complexity of urban crime and highlight the importance of a nuanced approach to understanding its dynamics.
 
